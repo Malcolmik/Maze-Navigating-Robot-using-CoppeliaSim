@@ -1,4 +1,4 @@
-"""# Maze Navigation Robot using CoppeliaSim and Jupyter Notebooks
+### Maze Navigation Robot using CoppeliaSim and Jupyter Notebooks
 
 This project features a series of workshops that guide the development of a robot capable of navigating maze environments using CoppeliaSim (V-REP) and Python in Jupyter notebooks. The robot used in later workshops is the **dr20**, equipped with ultrasonic sensors, a front-facing laser sensor, and a camera.
 
